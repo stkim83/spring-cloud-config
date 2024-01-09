@@ -1,10 +1,10 @@
 token:
   expiration_time: 864000000
-  secret: dev_config_token_#788
+  secret: secret_ecommerce
 
 gateway:
   ip: 10.0.0.2
 
 property:
   user:
-    name: "test"
+    name: "stkim"
