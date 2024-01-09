@@ -1,6 +1,6 @@
 token:
   expiration_time: 864000000 
-  secret: dd
+  secret: dddd
 
 gateway:
   ip: 192.168.0.8
