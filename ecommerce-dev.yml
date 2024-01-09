@@ -4,3 +4,7 @@ token:
 
 gateway:
   ip: 10.0.0.2
+
+property:
+  user:
+    name: "test"
